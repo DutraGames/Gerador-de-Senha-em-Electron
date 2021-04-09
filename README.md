@@ -8,5 +8,5 @@ Senha Gerada:
 ![image](https://user-images.githubusercontent.com/69097449/114128086-f622e180-98d1-11eb-8a90-ddb000bf7244.png)
 
 
-Link de download do programa (SOMENTE PARA WINDOWS:
-https://drive.google.com/file/d/1WeOC9C0hebcvwk7JFz1AkSmWGaBDGyJS/view?usp=sharing
+Link de download do programa (SOMENTE PARA WINDOWS):
+https://drive.google.com/file/d/1WeOC9C0hebcvwk7JFz1AkSmWGaBDGyJS/view?usp=sharin
