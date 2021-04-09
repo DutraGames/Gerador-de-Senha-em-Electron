@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gerador de Senha</title>
+    <link rel="stylesheet" href="css/style.css"
+</head>
+<body>
+
+    <div>
+        <h1 class="center">Gerador de Senha</h1>
+        <hr>
+        
+        <div class="center">
+            <label>Digite o tamanho da Senha:</label>
+            <br><br>
+            <input type="number" id="pass" min="1" max="30">
+            <br><br>
+            <button class="btn" type="button" onclick="gerarPass()">Gerar</button>
+            <br><br>
+            <hr>
+            <span id="newpass">A senha será gerada nesse campo</span>
+            <hr>
+        </div>
+    </div>
+
+
+    <script src="scr/gerador.js"></script>
+</body>
+</html>

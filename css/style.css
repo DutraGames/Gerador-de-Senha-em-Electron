@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    font-size: large;
+}
+
+.btn:hover {
+opacity: 75%;
+}
+
+input {
+    width: 150px;
+    height: 20px;
+    font-size: larger;
+}
+
+label {
+    font-size: larger;
+}
+
+#newpass {
+    font-size: larger;
+    
+}
